@@ -1,0 +1,19 @@
+{
+  "name": "六级单词记录离线版",
+  "short_name": "六级单词",
+  "description": "可离线使用的六级单词背诵与复习记录",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f4",
+  "theme_color": "#157f70",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
